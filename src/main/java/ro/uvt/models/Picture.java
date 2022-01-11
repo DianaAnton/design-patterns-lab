@@ -1,5 +1,7 @@
 package ro.uvt.models;
 
+
+
 public interface Picture {
 	public String url();
 	

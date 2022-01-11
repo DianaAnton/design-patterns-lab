@@ -2,11 +2,13 @@
  * 
  */
 package ro.uvt.models;
+
 import ro.uvt.services.*;
 /**
  * @author Diana Anton
  *
  */
+
 public class Table implements Element, Visitee {
     private String title;
 

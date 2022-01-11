@@ -1,5 +1,7 @@
 package ro.uvt.models;
 
+
+
 public class ImageContent {
 	private String type;
 

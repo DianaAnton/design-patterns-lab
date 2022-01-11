@@ -1,9 +1,11 @@
 package ro.uvt.models;
+
 import ro.uvt.services.*;
 /**
  * @author Diana Anton
  *
  */
+
 public class TableOfContents implements Element, Visitee {
 	private String name;
 

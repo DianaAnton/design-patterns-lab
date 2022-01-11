@@ -1,4 +1,5 @@
 package ro.uvt;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import ro.uvt.services.*;
 import ro.uvt.models.*;
 
@@ -12,6 +13,7 @@ public class Main {
 	 * @param args
 	 * @throws Exception 
 	 */
+
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		Command cmd1 = new OpenCommand("Titlu 1");

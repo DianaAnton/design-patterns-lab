@@ -2,11 +2,13 @@
  * 
  */
 package ro.uvt.models;
+
 import ro.uvt.services.*;
 /**
  * @author Diana Anton
  *
  */
+
 public class ImageProxy implements Picture, Element, Visitee{
 	private String url;
 	private Dimension dim;

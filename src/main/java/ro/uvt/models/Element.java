@@ -3,10 +3,13 @@
  */
 package ro.uvt.models;
 
+
+
 /**
  * @author Diana Anton
  *
  */
+
 public interface Element {
 	//public void print();
 	

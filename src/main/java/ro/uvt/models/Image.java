@@ -2,6 +2,7 @@
  * 
  */
 package ro.uvt.models;
+
 import ro.uvt.services.*;
 import java.util.concurrent.TimeUnit; 
 
@@ -9,6 +10,7 @@ import java.util.concurrent.TimeUnit;
  * @author Diana Anton
  *
  */
+
 public class Image implements Element, Picture, Visitee {
     private String imageName;
     private Dimension dim;

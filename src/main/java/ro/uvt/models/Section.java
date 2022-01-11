@@ -2,6 +2,7 @@
  * 
  */
 package ro.uvt.models;
+
 import ro.uvt.services.*;
 import java.util.ArrayList;
 
@@ -9,6 +10,7 @@ import java.util.ArrayList;
  * @author Diana Anton
  *
  */
+
 public class Section implements Element, Visitee {
     private String name;
     private ArrayList<Element> subElements = new ArrayList<>();

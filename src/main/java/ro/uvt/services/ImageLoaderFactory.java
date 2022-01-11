@@ -1,5 +1,7 @@
 package ro.uvt.services;
 
+
+
 public class ImageLoaderFactory {
 	
 	public ImageLoader create(String type) {

@@ -1,10 +1,12 @@
 package ro.uvt.models;
+
 import ro.uvt.services.*;
 
 /**
  * @author Diana Anton
  *
  */
+
 public class Paragraph implements Element, Visitee {
     private String text;
     private AlignStrategy alignStrategy;

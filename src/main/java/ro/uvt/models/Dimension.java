@@ -3,10 +3,13 @@
  */
 package ro.uvt.models;
 
+
+
 /**
  * @author Diana Anton
  *
  */
+
 public class Dimension {
 	private int lungime;
 	private int latime;
